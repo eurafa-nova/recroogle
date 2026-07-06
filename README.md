@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://recroogle.dev"><strong>recroogle.dev</strong></a>
+  <a href="https://recroogle.vercel.app/"><strong>recroogle.vercel.app</strong></a>
 </p>
 
 ---
